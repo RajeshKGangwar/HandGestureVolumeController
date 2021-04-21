@@ -1,4 +1,4 @@
-# Hand Gesture Volumne Control:
+# Hand Gesture Volume Control:
 ![Python 3.6](https://img.shields.io/badge/Python-v3.6-green) ![Opencv-Python](https://img.shields.io/badge/OpenCv--Python-v4.5-red) ![mediapipe](https://img.shields.io/badge/mediapipe-0.8-lightgrey) ![numpy](https://img.shields.io/badge/numpy-1.20-blue) ![pycaw](https://img.shields.io/badge/pycaw-20181226-yellow)
 
 
