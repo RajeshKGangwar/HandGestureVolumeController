@@ -31,6 +31,7 @@ This App is divided into two part:
 2. __VolumeControl.py__: Building App which could control volume of the system.
     - Frames which are fetched through webcam are passed one after the other for detection.
     - Corner Coordinates (X,Y) for Thumb and index finger are taken into consideration.
+    - As we can see in the above Demo, Value for thumb for point as 4 is fetched by the function.
     - Volume is controlled using the distance between those points. More the distance higher the Volume and vice-versa.
 
 ## Installation
